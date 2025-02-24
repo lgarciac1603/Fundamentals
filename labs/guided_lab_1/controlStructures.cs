@@ -1,4 +1,4 @@
-﻿namespace Fundamentals.guided_lab_1
+﻿namespace Fundamentals.labs.guided_lab_1
 {
     class controlStructures
     {
