@@ -1,6 +1,6 @@
-﻿namespace Fundamentals.labs.guided_lab_1
+﻿namespace Fundamentals.labs
 {
-    class controlStructures
+    class lab_1
     {
         public static void testAge()
         {
